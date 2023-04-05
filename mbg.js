@@ -1,6 +1,6 @@
 const sqlite3 = require("better-sqlite3");
 
-const mbg = exports = module.export = function mbg(src){
+const mbg = exports = module.exports = function mbg(src){
 	if (!(this instanceof mbg)) return new mbg(src);
 	const self = this;
 
