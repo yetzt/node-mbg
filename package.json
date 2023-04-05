@@ -1,0 +1,12 @@
+{
+  "name": "mbg",
+  "version": "0.0.1",
+  "description": "a fast minimal mbtiles reader",
+  "main": "mbg.js",
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "dependencies": {
+    "better-sqlite3": "^8.2.0"
+  },
+  "keywords": ["mbtiles","sqlite","map","maptiles","vectortiles","tiles","mvt"]
+}
