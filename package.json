@@ -1,6 +1,6 @@
 {
   "name": "mbg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a fast minimal mbtiles reader",
   "main": "mbg.js",
   "author": "yetzt <node@yetzt.me>",
